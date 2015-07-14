@@ -1,18 +1,19 @@
-## Filenames
-    While using the asset pipeline use hypens (-) to separate multi-word filenames and keep all words lower case.
-    ```
-    // bad
-    MultiWordFilename.js
+While using the asset pipeline use hypens (-) to separate multi-word filenames and keep all words lower case.
 
-    // bad
-    multiwordfilename.js
+```
+// bad
+MultiWordFilename.js
 
-    // bad
-    mulitWordFilename.js
-    
-    // bad
-    multi_word_filename.js
+// bad
+multiwordfilename.js
 
-    // good
-    multi-word-filename.js
-    ```
+// bad
+mulitWordFilename.js
+
+// bad
+multi_word_filename.js
+
+// good
+multi-word-filename.js
+```
+
